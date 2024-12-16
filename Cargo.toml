@@ -170,4 +170,4 @@ name = "libfuncs"
 harness = false
 
 [workspace]
-members = ["runtime"]
+members = [ "fuzz","runtime"]
